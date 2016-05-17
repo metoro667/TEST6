@@ -12,11 +12,9 @@
 
 // テスト６
 // テスト７
-<<<<<<< HEAD
 //テスト８
 
-=======
->>>>>>> 16a72d2fe7507a6c46a64218c3e2e9cc3748122c
+
 
 import Foundation
 import UIKit
