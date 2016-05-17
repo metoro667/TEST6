@@ -4,8 +4,8 @@
 //
 //  Created by 渡辺寛太 on 2016/05/17.
 //  Copyright © 2016年 mycompany. All rights reserved.
-//  テスト2
 
+//  テスト2
 
 import Foundation
 import UIKit
