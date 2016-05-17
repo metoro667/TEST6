@@ -7,7 +7,10 @@
 
 //  テスト2
 //　テスト３
+<<<<<<< HEAD
 // テスト４
+=======
+>>>>>>> dc46320ae9497a95bb2f0e2175f4dbdc2b4b53e7
 
 import Foundation
 import UIKit
