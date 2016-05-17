@@ -11,6 +11,7 @@
 //テスト５
 
 // テスト６
+// テスト７
 
 import Foundation
 import UIKit
